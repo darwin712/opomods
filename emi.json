@@ -1,0 +1,20 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:dark_oak_planks",
+    "item:travelersbackpack:bee"
+  ],
+  "craft_history": [
+    "minecraft:stick",
+    "minecraft:crafting_table",
+    "biomesoplenty:fir_planks",
+    "minecraft:wooden_pickaxe"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
